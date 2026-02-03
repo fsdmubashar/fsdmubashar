@@ -1,6 +1,12 @@
-# 💫 About Me:
-👨‍💻 All of my projects are available at github.com/fsdmubashar<br>💬 Ask me about DevSecOps & Cloud DevOps<br>📫 How to reach me city.mubashar@gmail.com
+# ☁️ Muhammad Mubashar Karamat Ali | Cloud DevOps & DevSecOps Engineer 🛡️
+### 💫 About Me:
 
+👨‍💻 All of my projects are available at github.com/fsdmubashar<br>💬 Ask me about DevSecOps & Cloud DevOps<br>📫 How to reach me city.mubashar@gmail.com
+- 🌍 Based in **Pakistan** 🇵🇰
+- 🚀 Passionate about **Cloud Infrastructure**, **Automation**, and **Security-First** development.
+- 🛠️ Currently focusing on building secure CI/CD pipelines and Infrastructure as Code (IaC).
+- 🌱 Always learning: **Kubernetes Security** and **Cloud Native Security**.
+- 💬 Ask me about: **Docker, Jenkins, Terraform, or AWS Security.**
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mubasharkaramat5187) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muhammad_mubashar_official) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/mubashar-karamat-833457245/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@medium.com/@city.mubashar) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Mubashar Karamat) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:city.mubashar@gmail.com) 
