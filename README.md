@@ -192,7 +192,6 @@ I'm always interested in collaborating on DevOps and cloud infrastructure projec
 ### 🌟 "Automate everything, secure by default, monitor relentlessly" 🌟
 
 ![Profile Views](https://komarev.com/ghpvc/?username=fsdmubashar&color=red&style=for-the-badge&label=Profile+Views)
-[![Visitor Count](https://visitcount.itsvg.in/api?id=fsdmubashar&icon=10&color=13)](https://visitcount.itsvg.in)
 
 **⭐ Don't forget to star my repositories if you find them helpful!**
 
