@@ -23,11 +23,17 @@
 ## 💫 About Me
 
 🌍 Based in **Pakistan 🇵🇰**
+
 🚀 Passionate about **Cloud | DevOps | Kubernetes | Terraform | AI Enthusiast**
+
 🛠️ Currently focusing on building **secure CI/CD pipelines** and **Infrastructure as Code (IaC)**
+
 🌱 Continuously learning **Kubernetes Security**, **GitOps**, and **Cloud Native Tools**
+
 💬 Ask me about **Docker, Jenkins, Terraform, or AWS Security**
+
 👨‍💻 All of my projects are available at **[github.com/fsdmubashar](https://github.com/fsdmubashar)**
+
 📫 How to reach me: **city.mubashar@gmail.com**
 
 ---
