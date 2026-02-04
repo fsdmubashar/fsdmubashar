@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muhammad Mubashar Karamat | ☁️ Cloud DevOps & DevSecOps Engineer 🛡️
 ## 💫 About Me:
-🌍 Based in Pakistan 🇵🇰 <br>🚀 Passionate about Cloud | DevOps | Kubernetes | Terraform | AI Enthusiast.<br>🛠️ Currently focusing on building secure CI/CD pipelines and Infrastructure as Code (IaC).<br>🌱 Continuously learning Kubernetes Security, GitOps, and Cloud Native Tools<br>💬 Ask me about Docker, Jenkins, Terraform, or AWS Security.<br>👨‍💻 All of my projects are available at github.com/fsdmubashar<br>📫 How to reach me: city.mubashar@gmail.com
+🌍 Based in Pakistan 🇵🇰 <br>🚀 Passionate about Cloud | DevOps | Kubernetes | Terraform | AI Enthusiast.<br>🛠️ Currently focusing on building secure CI/CD pipelines and Infrastructure as Code (IaC).<br>🌱 Continuously learning Kubernetes Security, GitOps, and Cloud Native Tools<br>💬 Ask me about Docker, Jenkins, Terraform, or AWS Security.<br>👨‍💻 All of my projects are available at fsdmubashar<br>📫 How to reach me: city.mubashar@gmail.com
 
 
 ### 🌐 Socials:
