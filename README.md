@@ -23,17 +23,11 @@
 ## 💫 About Me
 
 🌍 Based in **Pakistan 🇵🇰**
-
 🚀 Passionate about **Cloud | DevOps | Kubernetes | Terraform | AI Enthusiast**
-
 🛠️ Currently focusing on building **secure CI/CD pipelines** and **Infrastructure as Code (IaC)**
-
 🌱 Continuously learning **Kubernetes Security**, **GitOps**, and **Cloud Native Tools**
-
 💬 Ask me about **Docker, Jenkins, Terraform, or AWS Security**
-
 👨‍💻 All of my projects are available at **[github.com/fsdmubashar](https://github.com/fsdmubashar)**
-
 📫 How to reach me: **city.mubashar@gmail.com**
 
 ---
@@ -106,25 +100,12 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fsdmubashar&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=fsdmubashar&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fsdmubashar&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
-
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=fsdmubashar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
-
-</div>
-
----
 
 ## 🎯 What I'm Working On
 
