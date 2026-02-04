@@ -1,25 +1,227 @@
-# 👋 Hi, I'm Muhammad Mubashar Karamat | ☁️ Cloud DevOps & DevSecOps Engineer 🛡️
-## 💫 About Me:
-🌍 Based in Pakistan 🇵🇰 <br>🚀 Passionate about Cloud | DevOps | Kubernetes | Terraform | AI Enthusiast.<br>🛠️ Currently focusing on building secure CI/CD pipelines and Infrastructure as Code (IaC).<br>🌱 Continuously learning Kubernetes Security, GitOps, and Cloud Native Tools<br>💬 Ask me about Docker, Jenkins, Terraform, or AWS Security.<br>👨‍💻 All of my projects are available at fsdmubashar<br>📫 How to reach me: city.mubashar@gmail.com
+<div align="center">
 
+# 👋 Hi, I'm Muhammad Mubashar Karamat
 
-### 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mubasharkaramat5187) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1G6b5jygab/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muhammad_mubashar_official) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/mubashar-karamat-833457245/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@city.mubashar) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@m_mubashar_offical) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@citymubashar) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@mubasharkaramat2882) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:city.mubashar@gmail.com) 
+### ☁️ Cloud DevOps & DevSecOps Engineer | Infrastructure Automation Specialist
 
-### 💻 Tech Stack:
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=fsdmubashar&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=fsdmubashar&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fsdmubashar&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-mubashar-karamat)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/muhammad_mubashar_official)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:city.mubashar@gmail.com)
+[![Website](https://img.shields.io/badge/Website-Visit-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://LavaTech.pk)
 
-#### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF0000&width=700&lines=👋+Hi,+I'm+Muhammad+Mubashar+Karamat;☁️+Cloud+DevOps+%26+DevSecOps+Engineer+🛡️;Building+Secure+%26+Scalable+Infrastructure;Automating+Cloud+Operations;CI/CD+Pipeline+Expert;Infrastructure+as+Code+Enthusiast" alt="Typing SVG" />
 
-#### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=fsdmubashar&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=fsdmubashar&icon=10&color=13)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+> Passionate DevOps Engineer from **Faisalabad, Pakistan 🇵🇰**, dedicated to building secure, scalable, and efficient cloud infrastructure.
+
+- 🔭 Currently working on **Cloud Native DevSecOps Solutions**
+- 🌱 Continuously learning **Kubernetes Security**, **GitOps**, and **Cloud Native Tools**
+- 💼 Specialized in **CI/CD Automation**, **Infrastructure as Code**, and **Container Orchestration**
+- 🛡️ Security-first approach in all DevOps implementations
+- 📫 Reach me at: **city.mubashar@gmail.com**
+- 🌐 Portfolio: **[LavaTech.pk](https://LavaTech.pk)**
+
+---
+
+## 🛠️ Technology Stack
+
+### ☁️ Cloud Platforms
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+### 🐳 Containerization & Orchestration
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+
+### 🔄 CI/CD & Automation
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+
+### 📜 Infrastructure as Code
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### 📊 Monitoring & Observability
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+
+### 🛡️ Security & Compliance
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Vault](https://img.shields.io/badge/HashiCorp_Vault-000000?style=for-the-badge&logo=vault&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+
+### 💾 Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### 💻 Programming & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+### 🔧 Web Servers & Reverse Proxy
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![HAProxy](https://img.shields.io/badge/HAProxy-00A7E1?style=for-the-badge&logo=haproxy&logoColor=white)
+
+---
+
+## 📈 GitHub Statistics
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fsdmubashar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fsdmubashar&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fsdmubashar&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=fsdmubashar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
+
+</div>
+
+---
+
+## 🎯 Core Competencies
+
+```yaml
+DevOps_Skills:
+  Cloud_Infrastructure:
+    - Multi-cloud architecture design and implementation
+    - Cloud cost optimization and resource management
+    - High availability and disaster recovery planning
+    
+  CI/CD_Pipeline:
+    - Automated build, test, and deployment workflows
+    - Blue-Green and Canary deployment strategies
+    - GitOps implementation with ArgoCD/Flux
+    
+  Container_Orchestration:
+    - Kubernetes cluster management and scaling
+    - Microservices deployment and service mesh
+    - Container security and optimization
+    
+  Infrastructure_as_Code:
+    - Terraform modules for reusable infrastructure
+    - Ansible playbooks for configuration management
+    - Version-controlled infrastructure
+    
+  Security_DevSecOps:
+    - Security scanning in CI/CD pipelines
+    - Secrets management with Vault
+    - Compliance automation and policy enforcement
+    
+  Monitoring_Observability:
+    - Full-stack monitoring solutions
+    - Custom dashboards and alerting
+    - Log aggregation and analysis
+```
+
+---
+
+## 🔥 Featured Projects
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fsdmubashar&repo=kubernetes-devsecops&theme=tokyonight&hide_border=true)](https://github.com/fsdmubashar)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fsdmubashar&repo=terraform-aws-infrastructure&theme=tokyonight&hide_border=true)](https://github.com/fsdmubashar)
+
+</div>
+
+---
+
+## 💡 What I'm Working On
+
+- 🔐 Building secure CI/CD pipelines with integrated security scanning
+- ☸️ Implementing GitOps workflows with ArgoCD
+- 🚀 Automating infrastructure deployment with Terraform
+- 📊 Designing comprehensive monitoring solutions
+- 🛡️ Enhancing container security practices
+
+---
+
+## 📚 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- Coming Soon on Medium
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm always interested in collaborating on DevOps and cloud infrastructure projects!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Mubashar_Karamat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-mubashar-karamat)
+[![Instagram](https://img.shields.io/badge/Instagram-@muhammad__mubashar__official-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/muhammad_mubashar_official)
+[![Discord](https://img.shields.io/badge/Discord-mubasharkaramat5187-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/mubasharkaramat5187)
+[![Medium](https://img.shields.io/badge/Medium-@city.mubashar-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@city.mubashar)
+
+**💼 Open to DevOps/DevSecOps opportunities in Pakistan and remote positions**
+
+</div>
+
+---
+
+## 📊 Contribution Graph
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fsdmubashar&theme=tokyo-night&hide_border=true)
+
+</div>
+
+---
+
+## ✨ Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 "Automate everything, secure by default, monitor relentlessly" 🌟
+
+![Profile Views](https://komarev.com/ghpvc/?username=fsdmubashar&color=00C7B7&style=for-the-badge&label=Profile+Views)
+
+**⭐ Don't forget to star my repositories if you find them helpful!**
+
+</div>
+
+---
+
+<div align="center">
+  <i>Happy Coding! 🚀</i>
+</div>
